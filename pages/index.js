@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="This is the website of kalil0321." />
         <p className="description">
-          I am currently a Bachelor CS student at <a href="epfl.ch">EPFL</a>.
+          I am currently a Bachelor CS student at <a href="www.epfl.ch">EPFL</a>.
         </p>
       </main>
 
