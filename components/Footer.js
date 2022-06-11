@@ -15,3 +15,9 @@ export default function Footer() {
     </>
   )
 }
+
+export default function Main() {
+  <>
+    <div>Haha</div>
+    </>
+}
