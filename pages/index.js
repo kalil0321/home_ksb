@@ -15,6 +15,11 @@ export default function Home() {
         <p className="description">
           I am currently a Bachelor CS student at <a href="https://www.epfl.ch/fr/">EPFL</a>.
         </p>
+    <div>
+    <div>GitHub</div>
+    <div>Math</div>
+    <div>CS</div>
+    </div>
       </main>
 
       <Footer />
