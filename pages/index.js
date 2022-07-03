@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <div>
+      
           <div><h1>GitHub</h1></div>
           <div><h1>Math & CS</h1></div>
           <div><h1>Courses</h1></div>
-        </div>
+       
         <Header title="This is the website of kalil0321." />
         <p className="description">
           I am currently a Bachelor CS student at <a href="https://www.epfl.ch/fr/">EPFL</a>.
