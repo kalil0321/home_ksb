@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <div>
-          <div>GitHub</div>
-          <div>Math</div>
-          <div>CS</div>
+          <div><h1>GitHub</h1></div>
+          <div><h1>Math & CS</h1></div>
+          <div><h1>Courses</h1></div>
         </div>
         <Header title="This is the website of kalil0321." />
         <p className="description">
